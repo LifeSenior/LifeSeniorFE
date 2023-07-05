@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>signup</title>
+    <title>lifesenior</title>
     <link rel="stylesheet" href="./css/signupStyle.css">
 </head>
 <body>
@@ -14,9 +14,9 @@
             <img src="./img/main-nav-logo.png" alt="로고">
             <a href="#" style="color: #FFFFFF;">인생선배</a>
         </div>
-        <div class="nav-right">
+        <!-- <div class="nav-right">
             <p>로그인</p>
-        </div>
+        </div> -->
     </nav>
 
     <!-- header -->
@@ -29,19 +29,21 @@
                     <p>인생선배</p>
                 </div>
             </div>
-            <div class="signup-input-info">
-                <p>아이디</p>
-                <input type="text" placeholder="6자 이상">
-            </div>
-            <div class="signup-input-info">
-                <p>비밀번호</p>
-                <input type="text" placeholder="6자 이상">
-            </div>
-            <div class="signup-input-info">
-                <p>비밀번호 확인</p>
-                <input type="text" placeholder="6자 이상">
-            </div>
-            <a href=""><button>인생선배 만나러 가기</button></a>
+            <form action="" method="post" enctype="multipart/form-data">
+                <div class="signup-input-info">
+                    <p>아이디</p>
+                    <input type="text" placeholder="6자 이상">
+                </div>
+                <div class="signup-input-info">
+                    <p>비밀번호</p>
+                    <input type="password" placeholder="6자 이상">
+                </div>
+                <div class="signup-input-info">
+                    <p>비밀번호 확인</p>
+                    <input type="password" placeholder="6자 이상">
+                </div>
+            </form>
+            <input type="submit" value="인생선배 만나러 가기">
         </div>
     </header>
 </body>

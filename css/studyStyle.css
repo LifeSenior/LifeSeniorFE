@@ -9,6 +9,7 @@ body{
 }
 
 /* nav */
+/* copy */
 nav{
     display: flex;
     flex-direction: row;
@@ -65,6 +66,7 @@ nav{
 /* nav end */
 
 /* header */
+/* copy */
 header{
     display: flex;
     flex-direction: column;
@@ -89,6 +91,7 @@ header :nth-child(2){
     font-size: 70px;
     line-height: 80px;
 }
+/* header end */
 
 /* nav2 */
 #nav2{
@@ -106,6 +109,7 @@ header :nth-child(2){
 }
 
 /* main-scroll-icon */
+/* copy */
 .main-scroll-icon{
     position: fixed;
     bottom: 49px; 
@@ -124,6 +128,8 @@ header :nth-child(2){
 
     margin-bottom: 120px;
 }
+/* main-scroll-icon end */
+
 /* advice-box */
 .advice-box{
     display: flex;
@@ -763,8 +769,10 @@ header :nth-child(2){
 }
 
 /* footer */
+/* copy */
 footer img{
     width: 100%;
     margin-bottom: 72px;
     margin-top: 120px;
 }
+/* footer end */

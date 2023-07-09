@@ -1,0 +1,679 @@
+.sotonggesipan-jilmune-dabbyeonhagi {
+  align-items: center;
+  background-color: var(--lvwbba);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2770px;
+  width: 1920px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .lnb {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  gap: 64px;
+  height: 62px;
+  justify-content: center;
+  padding: 12px 0px;
+  position: relative;
+  width: 1920px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .menu0 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  margin-bottom: -3.00px;
+  margin-top: -3.00px;
+  padding: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .text {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .text-1 {
+  color: var(--lvwbba);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .group-499 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-left: 370px;
+  margin-top: 92px;
+  min-height: 105px;
+  padding: 0 0.0px;
+  width: 421px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .group-421 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 10.69px;
+  margin-top: -11px;
+  min-width: 41px;
+  transform: rotate(-90.00deg);
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .overlap-group {
+  height: 63px;
+  position: relative;
+  width: 41px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .ellipse-54 {
+  background-color: var(--ji3zfu);
+  border-radius: 20.63px;
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180.00deg);
+  width: 41px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .union {
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  transform: rotate(90.00deg);
+  width: 41px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .text-12 {
+  color: transparent;
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 50px;
+  white-space: nowrap;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .group-1000002981 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 37px;
+  min-width: 1181px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .overlap-group1 {
+  border-radius: 30px;
+  height: 587px;
+  position: relative;
+  width: 1181px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .group-524 {
+  align-items: flex-start;
+  background-color: var(--lvwbba);
+  border-radius: 30px;
+  box-shadow: 8px 8px 50px 10px #0000001a;
+  display: flex;
+  height: 587px;
+  left: 0;
+  min-width: 1181px;
+  position: absolute;
+  top: 0;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .rectangle-100 {
+  background-color: var(--ji3zfu);
+  border-radius: 30px 30px 0px 0px;
+  height: 122px;
+  width: 1181px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .profie {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  left: 845px;
+  position: absolute;
+  top: 22px;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .nickname {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 16px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .text-15 {
+  color: #ffffff;
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .text-16 {
+  color: #ffffff;
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .profile {
+  background-image: url(../img/ellipse-18@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 134px;
+  min-width: 134px;
+  position: relative;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .title {
+  align-items: center;
+  display: flex;
+  left: 40px;
+  position: absolute;
+  top: 47px;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .price {
+  color: var(--lvwbba);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .text-17 {
+  color: var(--lvwbba);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .frame-1000002912 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  left: 40px;
+  position: absolute;
+  top: 177px;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .frame-522 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 79px;
+  position: relative;
+  width: 1102px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .text-18 {
+  color: var(--dyrjtj);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 200px;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 1039px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .date {
+  color: #17181b;
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: 1102px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .line-9 {
+  height: 1px;
+  min-width: 1102px;
+  object-fit: cover;
+  position: relative;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .frame-44 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .frame-15 {
+  align-items: center;
+  background-color: var(--dyrjtj);
+  border-radius: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .frame-14 {
+  align-items: flex-start;
+  border-radius: 22px;
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .frame-18 {
+  align-items: center;
+  background-color: var(--ji3zfu);
+  border-radius: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .frame-14-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .frame {
+  align-items: flex-start;
+  background-color: var(--ji3zfu);
+  border-radius: 22px;
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .line-19 {
+  height: 20px;
+  margin-top: 179px;
+  width: 1920px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .group-1000002853 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-left: 2.0px;
+  margin-top: 100px;
+  min-height: 155px;
+  width: 594px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .group-421-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 1.37px;
+  margin-top: -11px;
+  min-width: 41px;
+  transform: rotate(-90.00deg);
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .text-13 {
+  color: transparent;
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-right: 2.0px;
+  min-height: 100px;
+  min-width: 592px;
+  text-align: center;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .frame-56 {
+  align-items: flex-start;
+  background-color: var(--dyrjtj);
+  border-radius: 36px;
+  display: flex;
+  gap: 10px;
+  margin-top: 60px;
+  padding: 20px 40px;
+  position: relative;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .text-5 {
+  color: var(--lvwbba);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .frame-1000002865 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-left: 1.0px;
+  margin-top: 100px;
+  position: relative;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .view {
+  height: 20.71px;
+  min-width: 191px;
+  position: relative;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .group-container {
+  align-items: flex-start;
+  display: flex;
+  min-width: 191px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .group-73 {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  min-width: 41px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .vector {
+  align-self: center;
+  height: 21px;
+  width: 15px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .number {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  white-space: nowrap;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .group-74 {
+  align-items: flex-start;
+  display: flex;
+  gap: 4px;
+  margin-left: 27px;
+  min-width: 63px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .vector-1 {
+  height: 17px;
+  margin-top: 0;
+  width: 24px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .x21-k {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  white-space: nowrap;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .group-75 {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  margin-left: 23px;
+  min-width: 37px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .vector-2 {
+  height: 20px;
+  margin-top: 0;
+  width: 21px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .number-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  white-space: nowrap;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .text-14 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .line-8 {
+  height: 1px;
+  margin-top: 99px;
+  object-fit: cover;
+  width: 1920px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .group-1000002870 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.0px;
+  margin-top: 200px;
+  min-height: 616px;
+  width: 1181px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .text-6 {
+  color: var(--black);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 8px;
+  min-height: 31px;
+  white-space: nowrap;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  margin-top: 49px;
+  min-width: 1177px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .group {
+  background-image: url(../img/ellipse-18@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 86px;
+  width: 86px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--x2);
+  border-radius: 20px;
+  display: flex;
+  height: 176px;
+  min-width: 1077px;
+  padding: 28.0px 32px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .text-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 31px;
+  width: 792px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .group-71 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  margin-top: 124px;
+  min-width: 898px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  min-height: 74px;
+  width: 792px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  height: 24px;
+  min-width: 248px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .min0508 {
+  color: var(--dyrjtj);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 105px;
+  white-space: nowrap;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .text-3 {
+  color: var(--x1);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 4.0px;
+  min-height: 16px;
+  min-width: 123px;
+  white-space: nowrap;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .group-72 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  margin-top: 64px;
+  min-width: 898px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 30px;
+  height: 24px;
+  min-width: 248px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .hyo_22 {
+  color: var(--dyrjtj);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 95px;
+  white-space: nowrap;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .group-1000002888 {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-color: var(--x1);
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  margin-right: 67px;
+  margin-top: 89px;
+  min-height: 80px;
+  padding: 23px 26px;
+  width: 80px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .vector-1-1 {
+  align-self: center;
+  height: 13px;
+  width: 26px;
+}
+
+.sotonggesipan-jilmune-dabbyeonhagi .price-1 {
+  color: var(--lvwbba);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-xxs);
+  font-weight: 700;
+  height: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  min-width: 27px;
+  text-align: center;
+  white-space: nowrap;
+}

@@ -1,0 +1,55 @@
+:root { 
+  --bffu3r: #f6f7fb;
+  --black: #000000;
+  --gen9nu: #ff5b16;
+  --hcmonl: #17181a;
+  --whisper: #f5f6fa;
+  --x1: #95969d;
+  --x2: #ebecf0;
+ 
+  --font-size-l: 28px;
+  --font-size-m: 24px;
+  --font-size-s: 14px;
+  --font-size-xl: 32px;
+ 
+  --font-family-nanum_gothic: "Nanum Gothic", Helvetica;
+}
+.nanumgothic-normal-eerie-black-24px {
+  color: var(--hcmonl);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nanumgothic-normal-whisper-24px {
+  color: var(--whisper);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nanumgothic-normal-mountain-mist-24px {
+  color: var(--x1);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nanumgothic-bold-mountain-mist-24px {
+  color: var(--x1);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nanumgothic-bold-black-28px {
+  color: var(--black);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}

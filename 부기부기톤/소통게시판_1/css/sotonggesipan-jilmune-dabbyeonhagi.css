@@ -1271,3 +1271,88 @@
   line-height: normal;
   white-space: nowrap;
 }
+
+/* nav */
+/* copy */
+nav{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 100%;
+  height: 64px;
+  font: 24px;
+  line-height: 23.76px;
+
+  background-color: #17181A;
+  color: #FFFFFF;
+}
+.nav-left,.nav-right{
+  display: flex;
+  flex-direction: row;
+}
+.nav-left {
+  margin-left: 55.59px;
+}
+.nav-left a{
+  margin-left: 16px;
+  text-decoration: none;
+}
+.nav-left img{
+  max-width: 10%;
+}
+.nav-right{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 135px;
+}
+.nav-right img{
+  cursor: pointer;
+  margin-right: 35px;
+}
+.nav-right :last-child{
+  margin-right: 0px;
+}
+.nav-icon-first{
+  width: 23px;
+  height: 35.764px; 
+}
+.nav-icon-second{
+  width: 26px;
+  height: 39.464px;
+}
+.nav-icon-third{
+  width: 43px;
+  height: 42px;
+}
+/* nav end */
+
+/* header */
+/* copy */
+header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  color: #f6f7FB;
+  background-image: url(./study-header-img.png);
+  background-color: black;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  width: 100%;
+  height: 344px;
+}
+header :nth-child(1){
+  margin-top: 94px;
+  font-size: 35px;
+  line-height: 80px;
+}
+header :nth-child(2){
+  font-size: 70px;
+  line-height: 80px;
+}
+/* header end */
